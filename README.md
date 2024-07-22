@@ -28,6 +28,6 @@ pacman -S bash inkscape coreutils tar gzip
 | 3		| Exiting *.png files.			|
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-For more details, see the [full license text](LICENSE).
+This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). <br>
+For more details, see the [full license text](LICENSE). <br>
 © 2024 Isaac David Orozco Delgado
