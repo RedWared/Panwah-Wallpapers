@@ -7,6 +7,7 @@ Wallpapers for Panwah.
 * dirname (coreutils)
 * tar (Optional, for compress on tar.gz)
 * gzip (Optional, for compress on tar.gz, tar is required)
+* SHA256sum (coreutils, Optional, for generate SHA256sums.txt)
 
 Example of installation of dependencies, required sudo or root account
 > In Arch Linux or derivatives
