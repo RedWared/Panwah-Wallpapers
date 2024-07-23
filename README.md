@@ -10,9 +10,13 @@ Wallpapers for Panwah.
 * sha256sum (coreutils, Optional, for generate SHA256sums.txt)
 
 Example of installation of dependencies, required sudo or root account
-> In Arch Linux or derivatives
+> In Arch Linux or derivatives.
 ```
 pacman -S bash inkscape coreutils tar gzip
+```
+> In Debian or derivatives.
+```
+apt install bash inkscape coreutils tar gzip
 ```
 
 ## Usage
