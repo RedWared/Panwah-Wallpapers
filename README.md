@@ -25,6 +25,7 @@ apt install bash inkscape coreutils tar gzip
 ```
 
 ## Verify a [release](https://github.com/RedWared/Panwah-Wallpapers/releases)
+extract and execute this in some directory.
 ```
 sha256sum --strict -c SHA256sums.txt
 ```
