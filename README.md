@@ -19,6 +19,12 @@ pacman -S bash inkscape coreutils tar gzip
 ./WallPack.sh --sha256sums --packtargz
 ```
 
+## Verify [release](https://github.com/RedWared/Panwah-Wallpapers/releases)
+```
+sha256sum --strict -c SHA256sums.txt
+
+```
+
 ## Error codes
 | Exit code	| Cause					|
 | --- 		| ---					|

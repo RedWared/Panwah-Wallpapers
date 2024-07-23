@@ -58,6 +58,9 @@ for cmd in $@; do
 		if [ -f "$tarName" ]; then
 			rm $tarName
 		fi
+		if [ -f "${tarName}.gz" ]; then
+			rm ${tarName}.gz
+		fi
 		fakeroot tar --append -f $tarName LICENSE
 	fi
 done
