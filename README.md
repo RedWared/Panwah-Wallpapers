@@ -23,7 +23,6 @@ pacman -S bash inkscape coreutils tar gzip
 ## Verify [release](https://github.com/RedWared/Panwah-Wallpapers/releases)
 ```
 sha256sum --strict -c SHA256sums.txt
-
 ```
 
 ## Error codes
